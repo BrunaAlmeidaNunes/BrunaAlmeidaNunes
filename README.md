@@ -2,7 +2,7 @@
 
 - 👀 Estou estudando desenvolvimento Front-End na Kenzie Academy  
 - 🌱 Cursando Analise e Desenvolvimento de Sistemas na Universidade Estacio de Sá 
-- Analista Java/Angular na Capgemini Brasil <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7e48fc94-4b87-464f-a517-06b34d02277f%2Fkisspng-capgemini-sogeti-engineering-information-industry-blockchain-5ac0a0f88a74c3.8227621715225735605671.png?table=block&id=78489084-c04c-40b7-91ef-ef20ed91fc63&spaceId=6d48527e-83e5-4f83-978a-458ca1f41518&width=250&userId=d73f65bd-93a2-42e5-a812-c443dee3a240&cache=v2">
+- Analista Java/Angular na Capgemini Brasil 
 <div align="center">
   <a href="https://github.com/brunaalmeidanunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaalmeidanunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
