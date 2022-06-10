@@ -2,6 +2,7 @@
 
 - 👀 Estou estudando desenvolvimento Front-End na Kenzie Academy  
 - 🌱 Cursando Analise e Desenvolvimento de Sistemas na Universidade Estacio de Sá 
+- Analista Java/Angular na Capgemini Brasil
 <div align="center">
   <a href="https://github.com/brunaalmeidanunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaalmeidanunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
